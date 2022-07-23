@@ -14,7 +14,6 @@ def pal_calc():
                     palind.append(True)
             if len(palind)==int(len(num)/2):
                 palindromes[num1*num2]=[num1,num2]
-    print(palindromes,len(palindromes))
     return max(list(palindromes.keys())), palindromes.get(max(list(palindromes.keys())))
 pal, nums = pal_calc()
 print("The largest palindrome made from the product of two 3-digit numbers is:",pal,"=",nums[0],"x",nums[1])
