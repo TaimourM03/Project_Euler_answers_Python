@@ -13,3 +13,5 @@ Project Euler problems' answers, done by myself:
       ·Problem 6: The difference between the sum of the squares of the first one hundred natural numbers and the square of the sum = 25164150
       
       ·Problem 7: The 10001st prime number: 104743
+      
+      ·Problem 8: The thirteen adjacent digits in the 1000-digit number that have the greatest product: 23514624000
