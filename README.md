@@ -7,3 +7,5 @@ Project Euler problems' answers, done by myself:
       ·Problem 3: Largest prime factor of the number 600851475143 = 6857
       
       ·Problem 4: Largest palindrome made from the product of two 3-digit numbers = 906609
+      
+      ·Problem 5: The smallest positive number that is evenly divisible by all of the numbers from 1 to 20 = 232792560
