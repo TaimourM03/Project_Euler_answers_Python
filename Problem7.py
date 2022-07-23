@@ -11,5 +11,4 @@ while len(prime_numbers) < 10001:
     if len(prime_num)==num:
         prime_numbers.append(num)
         num += 1
-        print(len(prime_numbers))
 print(prime_numbers[-1])#the 10001st prime number
