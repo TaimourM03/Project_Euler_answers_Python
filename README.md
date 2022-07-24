@@ -17,3 +17,5 @@ Project Euler problems' answers, done by myself:
       ·Problem 8: The thirteen adjacent digits in the 1000-digit number that have the greatest product = 23514624000
       
       ·Problem 9: The product abc = 31875000
+      
+      ·Problem 10: The sum of all the primes below two million = 142913828922
