@@ -18,4 +18,4 @@ Project Euler problems' answers, done by myself:
       
       ·Problem 9: The product abc = 31875000
       
-      ·Problem 10: The sum of all the primes below two million = 142913828922
+      ·Problem 10: (Slow code [brute force]) The sum of all the primes below two million = 142913828922
