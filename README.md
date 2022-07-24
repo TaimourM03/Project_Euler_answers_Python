@@ -15,3 +15,5 @@ Project Euler problems' answers, done by myself:
       ·Problem 7: The 10001st prime number: 104743
       
       ·Problem 8: The thirteen adjacent digits in the 1000-digit number that have the greatest product: 23514624000
+      
+      ·Problem 9: The product abc: 31875000
