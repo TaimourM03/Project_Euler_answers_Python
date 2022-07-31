@@ -21,3 +21,5 @@ Project Euler problems' answers, done by myself:
       ·Problem 10: (Slow code [brute force]) The sum of all the primes below two million = 142913828922
       
       ·Problem 11: Largest 4 adjacent numbers' product = 70600674
+      
+      ·Problem 12: The value of the first triangle number to have over five hundred divisors = 76576500
